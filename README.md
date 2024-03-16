@@ -6,11 +6,15 @@ I'm a high schooler in the Boston area. I go to a lot of hackathons and I'm work
 
 ## Projects
 
-### [Upcoming Events Board](https://devpost.com/software/upcoming-events-board) - HackTheCastle Hackathon (January 2023)
-  The Upcoming Events Board allows anyone to organize a local activity and get to know the people in their town, especially people who might be similar to themselves. This lets people such as new immigrants make connections in their new country of residence and find possible opportunities.
+### Upcoming Events Board ([devpost](https://devpost.com/software/upcoming-events-board)) - HackTheCastle Hackathon (January 2023)
+The Upcoming Events Board allows anyone to organize a local activity and get to know the people in their town, especially people who might be similar to themselves. This lets people such as new immigrants make connections in their new country of residence and find possible opportunities.
 
-### [Snow Day Sledding](https://github.com/EerierGosling/BBN-Hackathon--Sledding-Skating-and-Skiing) ([presentation](https://docs.google.com/presentation/d/1acBdPOdk9REWFreQ4EXicJParBPiaYJC-Tnyn3GmBP0/edit?usp=sharing)) - BB&N Hackathon (January 2023)
-  We built an app that lets you see all the sledding, skating, and skiing areas near you! The user can earn XP as they travel to each location.
+### Snow Day Sledding([repo](https://github.com/EerierGosling/Snow-Day-Sledding), [presentation](https://docs.google.com/presentation/d/1acBdPOdk9REWFreQ4EXicJParBPiaYJC-Tnyn3GmBP0/edit?usp=sharing)) - BB&N Hackathon (January 2023)
+We built an app that lets you see all the sledding, skating, and skiing areas near you! The user can earn XP as they travel to each location.
+
+### Duck Duck ([repo](https://github.com/EerierGosling/Duck-Duck), [itch.io](https://eeriergosling.itch.io/duckduck)) - AngelHacks (May 2023)
+Duck Duck is a platformer puzzle game where you use the rising water to help you collect the rubber duckies in a shipwreck!
+
 
 ## Skills
 - Python
