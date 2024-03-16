@@ -9,12 +9,12 @@ I'm a high schooler in the Boston area. I go to a lot of hackathons and I'm work
 ### Upcoming Events Board ([devpost](https://devpost.com/software/upcoming-events-board)) - HackTheCastle (January 2023)
 The Upcoming Events Board allows anyone to organize a local activity and get to know the people in their town, especially people who might be similar to themselves. This lets people such as new immigrants make connections in their new country of residence and find possible opportunities. 
 
-Made with HTML, JavaScript, and CSS.
+_Made with HTML, JavaScript, and CSS._
 
 ### Snow Day Sledding([repo](https://github.com/EerierGosling/Snow-Day-Sledding), [presentation](https://docs.google.com/presentation/d/1acBdPOdk9REWFreQ4EXicJParBPiaYJC-Tnyn3GmBP0/edit?usp=sharing)) - BB&N Hackathon (January 2023)
 An app that lets you see all the sledding, skating, and skiing areas near you! The user can earn XP as they travel to each location.
 
-Made with Swift.
+_Made with Swift._
 
 ### Duck Duck ([repo](https://github.com/EerierGosling/Duck-Duck), [itch.io](https://eeriergosling.itch.io/duckduck)) - AngelHacks (May 2023)
 Duck Duck is a platformer puzzle game where you use the rising water to help you collect the rubber duckies in a shipwreck!
