@@ -15,6 +15,8 @@ We built an app that lets you see all the sledding, skating, and skiing areas ne
 ### Duck Duck ([repo](https://github.com/EerierGosling/Duck-Duck), [itch.io](https://eeriergosling.itch.io/duckduck)) - AngelHacks (May 2023)
 Duck Duck is a platformer puzzle game where you use the rising water to help you collect the rubber duckies in a shipwreck!
 
+### Cat's Schrödinger ([repo](https://github.com/EerierGosling/Cats-Schrodinger), [itch.io](https://itsmenoobieboy.itch.io/cats-schrodinger)) - GMTK Game Jam (July 2023)
+A game where you play as Schrödinger's cat and traverse the timeline to escape his house. The theme was _Roles Reversed_.
 
 ## Skills
 - Python
