@@ -19,29 +19,29 @@ Made with Swift.
 ### Duck Duck ([repo](https://github.com/EerierGosling/Duck-Duck), [itch.io](https://eeriergosling.itch.io/duckduck)) - AngelHacks (May 2023)
 Duck Duck is a platformer puzzle game where you use the rising water to help you collect the rubber duckies in a shipwreck!
 
-Made with Unity.
+_Made with Unity._
 
 ### Cat's Schrödinger ([repo](https://github.com/EerierGosling/Cats-Schrodinger), [itch.io](https://itsmenoobieboy.itch.io/cats-schrodinger)) - GMTK Game Jam (July 2023)
 A game where you play as Schrödinger's cat and traverse the timeline to escape his house. The theme was _Roles Reversed_.
 
-Made with Unity.
+_Made with Unity._
 
 ### Job Interview Vocab Trainer ([repo](https://github.com/ItsMeNoobieboy/HackTheCastleII), [devpost](https://devpost.com/software/job-interview-simulator)) - HackTheCastle II (January 2024)
 #### Won _Best Technical Execution_!
 A website that allows non-native English speakers to practice job interviews and learn words they didn't know.
 
-Made with Svelte.
+_Made with Svelte._
 
 ### Periodic Cooking ([repo](https://github.com/EerierGosling/Periodic-Cooking)) - Wonderland (Febuary 2024)
 A Unity-based chemistry & cooking game inspired by food and a periodic table.
 
-Made with Unity.
+_Made with Unity._
 
 ### Global Report ([repo](https://github.com/EerierGosling/Global-Report), [submission page](https://ballot.hackmit.org/project/wkhcp-jycmp-sjrqt-axsnm)) - MIT Blueprint (March 2024)
 #### Won the _Spirit Award_!
 A website civilians can use to be aware of danger in their area.
 
-Made with React and Arduino.
+_Made with React and Arduino._
 
 ## Skills
 - Python
