@@ -27,7 +27,7 @@ A game where you play as Schrödinger's cat and traverse the timeline to escape 
 _Made with Unity._
 
 ### Job Interview Vocab Trainer ([repo](https://github.com/ItsMeNoobieboy/HackTheCastleII), [devpost](https://devpost.com/software/job-interview-simulator)) - HackTheCastle II (January 2024)
-#### Won _Best Technical Execution_!
+#### **Won _Best Technical Execution_!**
 A website that allows non-native English speakers to practice job interviews and learn words they didn't know.
 
 _Made with Svelte._
@@ -38,7 +38,7 @@ A Unity-based chemistry & cooking game inspired by food and a periodic table.
 _Made with Unity._
 
 ### Global Report ([repo](https://github.com/EerierGosling/Global-Report), [submission page](https://ballot.hackmit.org/project/wkhcp-jycmp-sjrqt-axsnm)) - MIT Blueprint (March 2024)
-#### Won the _Spirit Award_!
+#### **Won the _Spirit Award_!**
 A website civilians can use to be aware of danger in their area.
 
 _Made with React and Arduino._
