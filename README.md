@@ -60,7 +60,7 @@ Duck Duck is a platformer puzzle game where you use the rising water to help you
 
 _Made with Unity._
 
-#### Upcoming Events Board ([devpost](https://devpost.com/software/upcoming-events-board)) - HackTheCastle (January 2023)
+#### Upcoming Events Board ([replit](https://replit.com/@SofiaEgan/Nobles-Hackathon?v=1), [devpost](https://devpost.com/software/upcoming-events-board)) - HackTheCastle (January 2023)
 The Upcoming Events Board allows anyone to organize a local activity and get to know the people in their town, especially people who might be similar to themselves. This lets people such as new immigrants make connections in their new country of residence and find possible opportunities. 
 
 _Made with HTML, JavaScript, and CSS._
