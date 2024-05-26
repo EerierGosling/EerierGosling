@@ -51,6 +51,12 @@ A game where you play as Schrödinger's cat and traverse the timeline to escape 
 
 _Made with Unity._
 
+#### Informedead ([repo](https://github.com/EerierGosling/Informedead)) - Apocalypse (May 2024)
+##### Came top 7!
+Devices that can communicate off the grid. The theme was to create something that could help you survive the zombie apocalypse.
+
+_Made with Arduino/ESP32._
+
 #### Periodic Cooking ([repo](https://github.com/EerierGosling/Periodic-Cooking)) - Wonderland (Febuary 2024)
 A Unity-based chemistry & cooking game inspired by food and a periodic table.
 
