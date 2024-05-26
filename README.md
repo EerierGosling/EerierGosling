@@ -6,6 +6,12 @@
 
 ## Projects
 
+#### HacKnight Hackathon Website ([repo](https://github.com/EerierGosling/HacKnight), [site](https://hacknight.co/)) (Spring 2024)
+The website for HacKnight, a hackathon I organized!
+
+_Made with React._
+
+
 #### QUAL App: An App for my Middle School's Science Department (Summer 2022-2023)
 This app will help run the end-of-year test for my Middle School's Science Department.
 
