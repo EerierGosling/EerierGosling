@@ -44,7 +44,7 @@ _Made with React and Arduino._
 ##### Won _Best Technical Execution_!
 A website that allows non-native English speakers to practice job interviews and learn words they didn't know.
 
-_Made with Svelte._
+_Made with Svelte and Python._
 
 #### Cat's Schrödinger ([repo](https://github.com/EerierGosling/Cats-Schrodinger), [itch.io](https://itsmenoobieboy.itch.io/cats-schrodinger)) - GMTK Game Jam (July 2023)
 A game where you play as Schrödinger's cat and traverse the timeline to escape his house. The theme was _Roles Reversed_.
