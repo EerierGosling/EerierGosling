@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sofia Egan.
 
-#### I'm a high schooler in the Boston area. I go to a lot of hackathons and I'm working on running my own this spring! In my free time, I work on a lot of projects like making an app for my Middle School's Science department. I enjoy working with a diverse range of platforms and technologies, including apps, websites, games, and random ML and data analysis projects in Python.
+#### I'm a high schooler in the Boston area. I go to a lot of hackathons and I ran my own this spring, called [HacKnight](https://hacknight.co/)! I enjoy working with a diverse range of platforms and technologies, including apps, websites, games, and random ML and data analysis projects in Python.
 
 ---
 
