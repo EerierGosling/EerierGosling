@@ -12,6 +12,13 @@ The website for HacKnight, a hackathon I organized!
 _Made with React._
 
 
+#### MIT BWSI Build a CubeSat Challenge ([repo](https://github.com/ItsMeNoobieboy/KnightSat), [video](https://web.mit.edu/webcast/beaverworks/s24/cubesat/) - starts at 3:23:30, my section is at 3:28:30) (Winter 2024)
+##### Won second place!
+My team and I built a CubeSat designed to detect power outages. I wrote the code that detects the power outages and an applet that generates synthetic power outage images.
+
+_Made with Raspberry Pi and Python._
+
+
 #### QUAL App: An App for my Middle School's Science Department (Summer 2022-2023)
 This app will help run the end-of-year test for my Middle School's Science Department.
 
