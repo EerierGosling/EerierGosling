@@ -12,7 +12,7 @@ The website for HacKnight, a hackathon I organized!
 _Made with React._
 
 
-#### MIT BWSI Build a CubeSat Challenge ([repo](https://github.com/ItsMeNoobieboy/KnightSat), [video](https://youtu.be/pVJEY5oZk4g?si=a1RX_y11sp9JEGzc&t=9722) - my section starts [here](https://youtu.be/pVJEY5oZk4g?si=d1uOZxWgCf-5oBJz)) (Winter 2024)
+#### MIT BWSI Build a CubeSat Challenge ([repo](https://github.com/ItsMeNoobieboy/KnightSat), [video](https://youtu.be/pVJEY5oZk4g?si=a1RX_y11sp9JEGzc&t=9722) - my section starts [here](https://youtu.be/pVJEY5oZk4g?si=QRviyNMP5ggds4gL)) (Winter 2024)
 ##### Won second place!
 My team and I built a CubeSat designed to detect power outages. I wrote the code that detects the power outages and an applet that generates synthetic power outage images.
 
