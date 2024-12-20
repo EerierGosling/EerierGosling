@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sofia Egan.
 
-#### I'm a high schooler in the Boston area. I go to a lot of hackathons and I ran my own this spring, called [HacKnight](https://hacknight.co/)! I enjoy working with a diverse range of platforms and technologies, including apps, websites, games, and random ML and data analysis projects in Python.
+#### I'm a high schooler in the Boston area. I go to a lot of hackathons and I've run some of my own! I ran [HacKnight](https://hacknight.co/) and was an organizer for [Counterspell](https://counterspell.hackclub.com) globally and [Counterspell Boston](https://counterspell.hackclub.com/boston). I enjoy working with a diverse range of platforms and technologies, including apps, websites, games, and random ML and data analysis projects in Python.
 
 ---
 
@@ -41,7 +41,14 @@ A climbing boot designed to make climbing easier through integrating retractable
 _Made with Arduino._
 
 ### Hackathons
-#### Global Report ([repo](https://github.com/EerierGosling/Global-Report), [submission page](https://ballot.hackmit.org/project/wkhcp-jycmp-sjrqt-axsnm)) - MIT Blueprint (March 2024)
+
+#### MatchTube ([repo](https://github.com/EerierGosling/MatchTube), [Devpost](https://devpost.com/software/matchtube)) - PennApps (September 2024)
+##### Won _Best use of MongoDB Atlas_ and Honorable Mention for _Most Creative_!
+A dating app that uses your YouTube watch history to match you with similar people!
+
+_Made with React, Flask and Hugging Face._
+
+#### Global Report ([repo](https://github.com/EerierGosling/Global-Report)) - MIT Blueprint (March 2024)
 ##### Won the _Spirit Award_!
 A website civilians can use to be aware of danger in their area.
 
