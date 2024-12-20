@@ -42,7 +42,7 @@ _Made with Arduino._
 
 ### Hackathons
 
-#### MatchTube ([repo](https://github.com/EerierGosling/MatchTube), [Devpost](https://devpost.com/software/matchtube)) - PennApps (September 2024)
+#### MatchTube ([repo](https://github.com/EerierGosling/MatchTube), [devpost](https://devpost.com/software/matchtube)) - PennApps (September 2024)
 ##### Won _Best use of MongoDB Atlas_ and Honorable Mention for _Most Creative_!
 A dating app that uses your YouTube watch history to match you with similar people!
 
