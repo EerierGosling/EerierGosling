@@ -19,7 +19,7 @@ My team and I built a CubeSat designed to detect power outages. I wrote the code
 _Made with Raspberry Pi and Python._
 
 #### Convolutional Nerual Net from Scratch ([repo](https://github.com/EerierGosling/Convolutional-Neural-Network)) (December 2024 to Today - Ongoing)
-I've been working on building my own CNN from scratch based on [this presentation](https://math.mit.edu/research/highschool/primes/materials/2024/December/2-5-Egan.pdf) I gave for PRIMES CS Circle! Right now, the underlying math works and I'm working on training it to recognize shapes.
+I've been working on building my own CNN from scratch based on [this presentation](https://math.mit.edu/research/highschool/primes/materials/2024/December/2-5-Egan.pdf) I gave for MIT PRIMES CS Circle! Right now, the underlying math works and I'm working on training it to recognize shapes.
 
 _Made with Python._
 
