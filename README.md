@@ -2,7 +2,7 @@
 
 #### I'm a high schooler in the Boston area. I go to a lot of hackathons and I've run some of my own! I ran [HacKnight](https://hacknight.co/) and was an organizer for [Counterspell](https://counterspell.hackclub.com) globally and our local event, [Counterspell Boston](https://counterspell.hackclub.com/boston). I also work for [Hack Club](https://hackclub.com) doing engineering work on projects like [Sprig](https://sprig.hackclub.com) and helping run Counterspell. I enjoy working with a diverse range of platforms and technologies, including apps, websites, games, and random ML and data analysis projects in Python.
 
-Check out my website at [eeriergosling.dev](https://eeriergosling.dev) - you can see all my projects there!
+### Check out my website at [eeriergosling.dev](https://eeriergosling.dev) - you can see all my projects there!
 
 ## Skills
 
